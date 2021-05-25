@@ -1,5 +1,5 @@
 # Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75305&size=30&center=true&vCenter=true&width=500&height=70&lines=I'm+Shiva+Sankeerth+Reddy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75305&size=30&center=true&vCenter=true&width=500&height=70&lines=I'm+Shiva+Sankeerth+Reddy;Software+Engineer+from+India;Open+Source+AI%2FML+Developer+;Nice+to+meet+you..!)](https://git.io/typing-svg)
 
 
 
