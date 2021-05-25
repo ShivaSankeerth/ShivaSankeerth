@@ -18,3 +18,5 @@
 [twitter]: https://twitter.com/shivasankeerth
 [linkedin]: https://www.linkedin.com/in/shivasankeerth/
 [Medium]: https://medium.com/@shivasankeerth
+
+![Visitor Count](https://profile-counter.glitch.me/{ShivaSankeerth}/count.svg)
