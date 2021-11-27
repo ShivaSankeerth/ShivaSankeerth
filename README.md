@@ -18,7 +18,7 @@
 	'pronouns': "he" | "him",
 	'can_code_in': [Python, Java, C++, Javascript, HTML, CSS],
 	'Frameworks': [Tensorflow, Pytorch, Django, Flask, React],
-	askMeAbout: ["Web Development", "Machine Learning", "DevOps", "MLOps"],
+	'askMeAbout': ["Web Development", "Machine Learning", "DevOps", "MLOps"],
 }
 ```
 [twitter]: https://twitter.com/shivasankeerth
